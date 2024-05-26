@@ -4,6 +4,8 @@ The Ollama Python library provides the easiest way to integrate Python 3.8+ proj
 
 ## Prerequisites
 
+In order to work with ros env, the python version should be 3.8.10.
+
 You need to have a local ollama server running to be able to continue. To do this:
 
 - Download: https://ollama.com/
